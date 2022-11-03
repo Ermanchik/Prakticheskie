@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AndreevErsanISIP20-1ugadaichislo</string>
+    <string name="behind">nedolyot</string>
+    <string name="ahead">perelyot</string>
+    <string name="hit">v tochku</string>
+    <string name="trytoguess">poprobuy ugadat chislo ot 1 &#8211; 100</string>
+    <string name="error">neverno</string>
+    <string name="input_value">vesti znachenie</string>
+    <string name="playmore">sigrat eshe</string>
+</resources>
